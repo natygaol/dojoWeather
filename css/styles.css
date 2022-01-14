@@ -40,4 +40,24 @@ span {
   align-items: center;
   justify-content: space-between;
   border-bottom: 3px solid black;
+  margin-bottom: 15px;
+}
+
+.main {
+  padding: 10px;
+  width: 1080px;
+  height: 400px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+
+}
+
+.col {
+  border: 1px solid black;
+  display: flex;
+  flex-direction: column;
+  height: 350px;
+  width: 180px;
 }
