@@ -68,9 +68,9 @@ span {
   border: 1px solid black;
   display: flex;
   justify-content: space-evenly;
-  /* position: fixed;
-  left: 120px;
-  right: 120px; */
+  position: absolute;
+  bottom: 10px;
+  left: 270px;
 }
 
 .bottomSpan {

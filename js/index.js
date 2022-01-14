@@ -5,6 +5,6 @@ function informeClima( elemento) {
 let footer = document.querySelector("footer");
 console.log(footer);
 
-function s ( element ) {
+function removeFooter ( element ) {
   footer.remove();
 }
